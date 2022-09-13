@@ -89,4 +89,4 @@ public class Main {
 ### 결과
 ![](https://i.imgur.com/Xdjt0Hz.png)
 
-###### tags: `java`, `dfs`, `algorithm`
+###### tags: `java`, `dfs`, `algorithm`, `Boj`
