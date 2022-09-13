@@ -89,6 +89,4 @@ public class Main {
 ### 결과
 ![](https://i.imgur.com/Xdjt0Hz.png)
 
-dfs의 기초문제라 천천히 생각하면서 풀기만 한다면 어려운 문제는 아니었다. 더 공부해서 dfs의 심화 문제도 도전해봐야겠다.
 ###### tags: `java`, `dfs`, `algorithm`
-
